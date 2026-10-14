@@ -1,0 +1,8 @@
+{
+  "name": "EDUFOCUS - AI-Powered Classroom Behaviour Monitoring System",
+  "description": "An academic AI-assisted classroom behaviour and attention monitoring prototype for educational institutions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
